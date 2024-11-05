@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>名古屋市営地下鉄桜通線</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>名古屋市営地下鉄桜通線</h1>
+    </header>
+
+    <section class="intro">
+        <p>桜通線は、名古屋市営地下鉄の一部で、名古屋市の東西を結ぶ地下鉄路線です。1989年に開業し、多くの人々にとって重要な交通手段となっています。</p>
+    </section>
+
+    <section class="line-details">
+        <h2>路線情報</h2>
+        <ul>
+            <li><strong>路線番号:</strong> S</li>
+            <li><strong>開業年:</strong> 1989年</li>
+            <li><strong>主な駅:</strong> 名古屋駅、久屋大通駅、桜山駅、野並駅</li>
+        </ul>
+    </section>
+
+    <section class="image-gallery">
+        <h2>桜通線の画像</h2>
+        <img src="images/nagoya_station.jpg" alt="名古屋駅">
+        <img src="images/sakuradori_line.jpg" alt="桜通線の電車">
+    </section>
+
+    <footer>
+        <p>&copy; 2023 桜通線紹介ページ</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
